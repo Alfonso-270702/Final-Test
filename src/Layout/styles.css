@@ -1,0 +1,9 @@
+.layout {
+  margin-top: 56px;
+}
+
+@media only screen and (max-width: 530px){
+  .layout {
+    margin-top: 104px;
+  }
+}
